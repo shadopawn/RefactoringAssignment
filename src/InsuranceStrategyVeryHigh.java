@@ -1,7 +1,4 @@
 public class InsuranceStrategyVeryHigh extends InsuranceStrategy {
-    public InsuranceStrategyVeryHigh() {
-    }
-
     @Override
     int getConstant() {
         return 105600;
